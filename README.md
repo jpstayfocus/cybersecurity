@@ -1,2 +1,9 @@
-# cybersecurity
-Focus and build upon core concepts and skills related to the daily work of cybersecurity professionals, including foundational cybersecurity models and frameworks that are used to mitigate risk; protecting networks and data; using programming to automate tasks; identifying and responding to security incidents; and communicating and collaborating with stakeholders. 
+# cybersecurity - roadmap
+- Foundations of Cybersecurity (current course) 
+- Play It Safe: Manage Security Risks 
+- Connect and Protect: Networks and Network Security 
+- Tools of the Trade: Linux and SQL 
+- Assets, Threats, and Vulnerabilities 
+- Sound the Alarm: Detection and Response
+- Automate Cybersecurity Tasks with Python 
+
